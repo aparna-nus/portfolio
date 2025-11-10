@@ -4,6 +4,7 @@
 - name: ML Project - UK Crime Prediction Dashboard
   i18n: jalpc
   gh_user: aparna-nus
+  url: https://aparna-nus.github.io/uk-crime-prediction-dashboard/
   repo: uk-crime-prediction-dashboard
   img: /static/assets/img/landing/ml_proj.png
   desc: Built a ML model + Dashboard to analyse crime stats and predict future ones.
@@ -16,32 +17,33 @@
 
 - name: RAG Project - Hindu Scripture
   i18n: google
-  url: https://google.com
+  url: https://aparna-nus.github.io/rag-hindu-scripture/
   img: /static/assets/img/landing/rag_proj.png
   gh_user: aparna-nus
-  repo: uk-crime-prediction-dashboard
+  repo: rag-hindu-scripture
   desc: RAG system to answer questions from Hindu scriptures using embeddings and LLMs.
 
 - name: Sustainability Project - Financial Analysis
   i18n: google
-  url: https://google.com
+  url: https://aparna-nus.github.io/sustainability-financial-case-study/
   img: /static/assets/img/landing/sus_proj.png
   gh_user: aparna-nus
-  repo: uk-crime-prediction-dashboard
+  repo: sustainability-financial-case-study
   desc: Financial Analysis to create the optimal Sustainable Investment Model for a business
 
 
 - name: Agentic AI Project - Indian Regional History
   i18n: cpython
-  gh_user: python
-  repo: cpython
+  gh_user: aparna-nus
+  repo: agent-indian-history
+  url: https://aparna-nus.github.io/agent-indian-history/
   img: /static/assets/img/landing/agentic_proj.png
   desc: This is a project using an AI agent to answer questions about indian history from all POVs including local languages.
 
 - name: Augmented Reality Project - Styling
   i18n: google
-  url: https://google.com
+  url: https://aparna-nus.github.io/ar-fashion-styling/
   img: /static/assets/img/landing/ar_proj.png
   gh_user: aparna-nus
-  repo: uk-crime-prediction-dashboard
-  desc: RAG system to answer questions from Hindu scriptures using embeddings and LLMs.
+  repo: ar-fashion-styling
+  desc: Using latest(2025 Nov) AR tech to build a try-on functionality

@@ -1,10 +1,10 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: UCI
+    detail: University of California - Irvine
     i18n: company_a
   desc:
-    detail: Bsc in Computer Science
+    detail: BSc in Computer Science, Specialisation in Intelligent Systems
     i18n: company_a_desc
   date:
     detail: 2016 - 2020
@@ -19,7 +19,7 @@
     detail: Okkular
     i18n: company_b
   desc:
-    detail: Worked at an AI in Fashion startup
+    detail: Grew from ML intern to ML Team Lead at an 'AI in Fashion Retail' startup
     i18n: company_b_desc
   date:
     detail: 2020-2024
@@ -30,14 +30,14 @@
   icon: fa-plus-square
 
 - name:
-    detail: NUS
+    detail: National University of Singapore
     i18n: company_b
   desc:
-    detail: Masters Student
+    detail: MSc in Data Science for Sustainablility
   date:
     detail: 2025-2026
     i18n: company_b_date
   job:
-    detail: Data Science In Sustainabiltiy
+    detail: Matsters Student
     i18n: company_b_job
   icon: fa-plus-square

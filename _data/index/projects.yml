@@ -18,12 +18,16 @@
   i18n: google
   url: https://google.com
   img: /static/assets/img/landing/rag_proj.png
+  gh_user: aparna-nus
+  repo: uk-crime-prediction-dashboard
   desc: RAG system to answer questions from Hindu scriptures using embeddings and LLMs.
 
 - name: Sustainability Project - Financial Analysis
   i18n: google
   url: https://google.com
   img: /static/assets/img/landing/sus_proj.png
+  gh_user: aparna-nus
+  repo: uk-crime-prediction-dashboard
   desc: Financial Analysis to create the optimal Sustainable Investment Model for a business
 
 
@@ -31,11 +35,13 @@
   i18n: cpython
   gh_user: python
   repo: cpython
-  img: /static/assets/img/landing/sus_proj.png
+  img: /static/assets/img/landing/agentic_proj.png
   desc: This is a project using an AI agent to answer questions about indian history from all POVs including local languages.
 
 - name: Augmented Reality Project - Styling
   i18n: google
   url: https://google.com
   img: /static/assets/img/landing/ar_proj.png
+  gh_user: aparna-nus
+  repo: uk-crime-prediction-dashboard
   desc: RAG system to answer questions from Hindu scriptures using embeddings and LLMs.

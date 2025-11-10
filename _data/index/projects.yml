@@ -31,7 +31,7 @@
   i18n: cpython
   gh_user: python
   repo: cpython
-  img: /static/assets/img/landing/agentic_proj.png
+  img: /static/assets/img/landing/sus_proj.png
   desc: This is a project using an AI agent to answer questions about indian history from all POVs including local languages.
 
 - name: Augmented Reality Project - Styling

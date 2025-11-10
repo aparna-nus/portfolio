@@ -5,5 +5,5 @@
 - src: landing/header_one.png
   title: first banner image
 
-#- src: landing/header_two.png
-#  title: second banner image
+- src: landing/header_one_old.jpg
+  title: second banner image

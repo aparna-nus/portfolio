@@ -1,19 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
 - name:
-    detail: University of California - Irvine
-    i18n: company_a
+    detail: National University of Singapore
+    i18n: company_b
   desc:
-    detail: BSc in Computer Science, Specialisation in Intelligent Systems
-    i18n: company_a_desc
+    detail: MSc in Data Science for Sustainablility
   date:
-    detail: 2016 - 2020
-    i18n: company_a_date
+    detail: 2025-2026
+    i18n: company_b_date
   job:
-    detail: Undergraduate Student
-    i18n: company_a_job
+    detail: Master's Student
+    i18n: company_b_job
   icon: fa-plus-square
   present: true
+
 
 - name:
     detail: Okkular
@@ -30,14 +31,16 @@
   icon: fa-plus-square
 
 - name:
-    detail: National University of Singapore
-    i18n: company_b
+    detail: University of California - Irvine
+    i18n: company_a
   desc:
-    detail: MSc in Data Science for Sustainablility
+    detail: BSc in Computer Science, Specialisation in Intelligent Systems
+    i18n: company_a_desc
   date:
-    detail: 2025-2026
-    i18n: company_b_date
+    detail: 2016 - 2020
+    i18n: company_a_date
   job:
-    detail: Master's Student
-    i18n: company_b_job
+    detail: Undergraduate Student
+    i18n: company_a_job
   icon: fa-plus-square
+  

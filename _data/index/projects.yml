@@ -8,18 +8,11 @@
   img: /static/assets/img/landing/ml_proj.png
   desc: Built a ML model + Dashboard to analyse crime stats and predict future ones.
 
-- name: Data Science Project - Visualiser Helper
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/ds_proj.png
-  desc: RAG system to answer questions from Hindu scriptures using embeddings and LLMs.
-
-- name: Agentic AI Project - Indian Regional History
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/agentic_proj.png
-  desc: This is a project using an AI agent to answer questions about indian history from all POVs including local languages.
+#- name: Data Science Project - Visualiser Helper
+#  i18n: google
+#  url: https://google.com
+#  img: /static/assets/img/landing/ds_proj.png
+#  desc: RAG system to answer questions from Hindu scriptures using embeddings and LLMs.
 
 - name: RAG Project - Hindu Scripture
   i18n: google
@@ -32,6 +25,14 @@
   url: https://google.com
   img: /static/assets/img/landing/sus_proj.png
   desc: Financial Analysis to create the optimal Sustainable Investment Model for a business
+
+
+- name: Agentic AI Project - Indian Regional History
+  i18n: cpython
+  gh_user: python
+  repo: cpython
+  img: /static/assets/img/landing/agentic_proj.png
+  desc: This is a project using an AI agent to answer questions about indian history from all POVs including local languages.
 
 - name: Augmented Reality Project - Styling
   i18n: google

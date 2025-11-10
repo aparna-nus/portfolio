@@ -5,30 +5,30 @@
   i18n: jalpc
   gh_user: aparna-nus
   repo: uk-crime-prediction-dashboard
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/ml_proj.png
   desc: Built a ML model + Dashboard to analyse crime stats and predict future ones.
 
-- name: DL + Agentic AI Project - Regional Language History Consolidation
+- name: Data Science Project - Visualiser Helper
+  i18n: google
+  url: https://google.com
+  img: /static/assets/img/landing/ds_proj.png
+  desc: RAG system to answer questions from Hindu scriptures using embeddings and LLMs.
+
+- name: Agentic AI Project - Indian Regional History
   i18n: cpython
   gh_user: python
   repo: cpython
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/agentic_proj.png
   desc: This is a project using an AI agent to answer questions about indian history from all POVs including local languages.
 
-- name: RAG for Hindu Scripture
+- name: RAG Project - Hindu Scripture
   i18n: google
   url: https://google.com
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/rag_proj.png
   desc: RAG system to answer questions from Hindu scriptures using embeddings and LLMs.
 
-- name: Data Visualiser and Explorer Helper
+- name: Augmented Reality Project - Styling
   i18n: google
   url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: RAG system to answer questions from Hindu scriptures using embeddings and LLMs.
-
-- name: Image Generation Styling Tool
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/ar_proj.png
   desc: RAG system to answer questions from Hindu scriptures using embeddings and LLMs.

@@ -23,12 +23,12 @@ author:  # change following line to your infomation.
   cv:   # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-google
-    - name: fa-linux
-    - name: 
+    #- name: icon-google
+    #- name: fa-linux
+    #- name: 
   skill_icon2:
-    - name: icon-aws
-    - name: icon-database
+    #- name: icon-aws
+    #- name: icon-database
   desc: AI/ML Engineer with an interest in architecting scalable solutions, ideally in the world of Sustainability.  # Describe yourself.
 
 # comment

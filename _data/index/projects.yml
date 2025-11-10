@@ -27,6 +27,12 @@
   img: /static/assets/img/landing/rag_proj.png
   desc: RAG system to answer questions from Hindu scriptures using embeddings and LLMs.
 
+- name: Sustainability Project - Financial Analysis
+  i18n: google
+  url: https://google.com
+  img: /static/assets/img/landing/sus_proj.png
+  desc: Financial Analysis to create the optimal Sustainable Investment Model for a business
+
 - name: Augmented Reality Project - Styling
   i18n: google
   url: https://google.com

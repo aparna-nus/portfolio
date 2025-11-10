@@ -19,7 +19,7 @@
     detail: Okkular
     i18n: company_b
   desc:
-    detail: Grew from ML intern to ML Team Lead at an 'AI in Fashion Retail' startup
+    detail: ML intern → ML Team Lead at an AI in Fashion startup
     i18n: company_b_desc
   date:
     detail: 2020-2024
@@ -38,6 +38,6 @@
     detail: 2025-2026
     i18n: company_b_date
   job:
-    detail: Matsters Student
+    detail: Master's Student
     i18n: company_b_job
   icon: fa-plus-square

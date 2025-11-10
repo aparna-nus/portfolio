@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Aparna Krishna
+title: 
 description: aparna krishna NUS, UCI, portoflio site
 keywords: aparna,krishna,data science,devops,machine learning,portfolio,portfolio,faps,nus,uci
 #baseurl:  /portfolio # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   #name: Aparna Krishna  # Be used at blog posts' author.
   first_name: Aparna  # Be used at index page about me section.
   $ast_name: Krishna  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/meicon.png  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/akicon.png  # upload your avatar at directory and edit it.
   github_username: aparna-nus  # Leave blank if you don't have now
   linkedin_id: aparna-krishna-17000 # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now

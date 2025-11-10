@@ -20,3 +20,15 @@
   url: https://google.com
   img: /static/assets/img/landing/google.png
   desc: RAG system to answer questions from Hindu scriptures using embeddings and LLMs.
+
+- name: Data Visualiser and Explorer Helper
+  i18n: google
+  url: https://google.com
+  img: /static/assets/img/landing/google.png
+  desc: RAG system to answer questions from Hindu scriptures using embeddings and LLMs.
+
+- name: Image Generation Styling Tool
+  i18n: google
+  url: https://google.com
+  img: /static/assets/img/landing/google.png
+  desc: RAG system to answer questions from Hindu scriptures using embeddings and LLMs.

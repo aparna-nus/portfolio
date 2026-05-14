@@ -486,11 +486,14 @@
     }
 
     .project-card {
+      display: block;
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: var(--radius);
       padding: 1.8rem;
+      color: inherit;
       cursor: pointer;
+      text-decoration: none;
       transition: all 0.3s var(--transition);
       position: relative;
       overflow: hidden;
@@ -562,7 +565,6 @@
       font-family: var(--mono);
       font-size: 0.72rem;
       color: var(--accent);
-      text-decoration: none;
       display: flex;
       align-items: center;
       gap: 0.3rem;
@@ -937,9 +939,9 @@ LLM-based applications.
     <p class="section-label reveal">Projects</p>
     <h2 class="section-title reveal">Selected <em style="font-style:italic">work</em></h2>
 
+    <div class="projects-grid">
 
-
-      <div class="project-card" style="transition-delay:0.1s">
+      <a href="https://gita-lime-six.vercel.app/" target="_blank" rel="noopener noreferrer" class="project-card" style="transition-delay:0.1s">
         <p class="project-icon">&lt;01 /&gt;</p>
         <h3 class="project-title">GitaAI - Chat with the Gita</h3>
         <p class="project-desc">Chat with scripture, understand the directly with citations and learn how to incorporate its teachings into your daily life.</p>
@@ -950,12 +952,12 @@ LLM-based applications.
             <span class="chip">Vercel/Render</span>
             <span class="chip">Async Orchestration</span>
           </div>
-          <a href="https://gita-lime-six.vercel.app/" class="project-link">↗ View</a>
+          <span class="project-link">↗ View</span>
         </div>
-      </div>
+      </a>
 
 
-      <div class="project-card" style="transition-delay:0.3s">
+      <a href="https://bangalore-flood-risk-simulator.vercel.app/" target="_blank" rel="noopener noreferrer" class="project-card" style="transition-delay:0.3s">
         <p class="project-icon">&lt;02 /&gt;</p>
         <h3 class="project-title">Bangalore Flood Risk + Rainfall Simulator</h3>
         <p class="project-desc">Geospatial project to visualise risk zones in Bangalore based on rainfall amounts in mm.</p>
@@ -966,9 +968,9 @@ LLM-based applications.
             <span class="chip">OSM</span>
             <span class="chip">Copernicus DEM</span>
           </div>
-          <a href="https://bangalore-flood-risk-simulator.vercel.app/" class="project-link">↗ View</a>
+          <span class="project-link">↗ View</span>
         </div>
-      </div>
+      </a>
 
 
     </div>
